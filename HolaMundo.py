@@ -1,3 +1,7 @@
-print("Hola mundo")
+#Numero par o impar cambiando el valor de x
+x = 11
 
-print("Este print es una modificación hecha dentro de github")
+if(x%2 == 0):
+    print("Es par")
+else:
+    print("Es impar")
